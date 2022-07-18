@@ -1,0 +1,21 @@
+#profile-pic{
+    width:  170px; /*or 70%, or what you want*/
+    height: 270px; /*or 70%, or what you want*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-color: #ffffff;
+   
+    /*
+    justify-self: center;
+    background-color:  rgb(219, 222, 223);*/
+}
+
+#card-size{
+    height: 450px;
+    width: 450px;
+}

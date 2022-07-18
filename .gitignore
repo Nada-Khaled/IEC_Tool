@@ -1,0 +1,10 @@
+*.xlsx
+*.csv
+*.PNG
+*.jpg
+*.png
+*.jpeg
+*.docx
+node_modules/
+iecenv/
+DB_Classes/

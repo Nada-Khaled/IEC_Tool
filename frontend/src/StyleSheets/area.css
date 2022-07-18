@@ -1,0 +1,50 @@
+h2 {
+    text-align: center;
+}
+
+
+#add_area{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    padding: 5%;
+}
+
+#form{
+    margin: 1%;
+    width: 100%;
+}
+
+.form1{
+    width: 100%;
+}
+
+#calendar_button1{
+    margin: 2px;
+    background-color:rgba(255, 102, 0, 1);
+}
+
+.eachRow{
+    width: 100%;
+}
+
+
+#submitAreaEdit{
+    color: white;
+    background-color:rgba(255, 102, 0, 1);
+}
+
+#submitNew{
+    color: white;
+    background-color: rgba(255, 102, 0, 1);
+    width: 100px;
+    height: 30px;
+    border-style: none;
+    cursor: pointer;
+    float: right;
+    border-radius: 12px;
+}
+
+#submitNew:hover{
+    background-color: rgb(233, 101, 13);
+}

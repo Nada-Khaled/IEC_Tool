@@ -1,0 +1,225 @@
+.logo{
+    width: 30%;
+    background-size: cover;
+    margin: 0%;
+}
+/*
+.navbar{
+    width: 90%;
+    height: 23%;
+    margin: 20%;
+    padding: 35px 0;
+    display: contents;
+    align-items: center;
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}*/
+
+#menu_id{
+    background: rgba(255, 102, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+/*#lines_options{
+    background-color: rgba(150, 22, 22, 0);
+    color: white;
+    height: 70px;
+}
+#lines_option{
+    color: white;
+    height: 70px;
+}
+#lines_option:hover{
+    background-color: rgba(150, 22, 22, 0.5);
+}*/
+
+.menu_item{
+    margin: 0px;
+    height: 60px;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.menu_item:hover{
+    margin: 0px;
+    height: 60px;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#sign-in-text{
+    margin: 0px;
+    text-align: center;
+    padding-left: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+#sign-in-text:hover{
+    margin: 0px;
+    text-align: center;
+    padding-left: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+#menu_2_id{
+    margin: 0px;
+    background: rgb(31, 26, 26);
+    color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 100px;
+    font-size: small;
+    /*border: 1px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 1);*/
+}
+
+#menu_2_id_phone_admin{
+    margin: 0px;
+    background: rgb(31, 26, 26);
+    color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 600px;
+    font-size:smaller;
+}
+
+#menu_2_id_phone_part_inst{
+    margin: 0px;
+    background: rgb(31, 26, 26);
+    color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 600px;
+    font-size: small;
+}
+#menu_2_id_phone_part{
+    margin: 0px;
+    background: rgb(31, 26, 26);
+    color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 600px;
+    font-size: small;
+}
+
+#menu_2_id_phone_inst{
+    margin: 0px;
+    background: rgb(31, 26, 26);
+    color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 500px;
+    font-size: small;
+}
+
+.menu_2_item{
+    margin: 0px;
+    height: 100px;
+    font-size: large;
+    
+}
+
+.drop_menu_2_item{
+    font-size: large;
+    width: 50%;
+}
+
+
+@media (orientation: landscape) /*desktop*/
+{
+    #menu_2_id_phone_part_inst{
+        display: none;
+    }
+    #menu_2_id_phone_part{
+        display: none;
+    }
+    #menu_2_id_phone_admin{
+        display: none;
+    }
+    #menu_2_id_phone_inst{
+        display: none;
+    }
+}
+
+@media (orientation: portrait) /*iphone*/
+{
+    .menu_item{
+        margin: 0px;
+        height: 120px;
+        font-size: small;
+        font-weight: bolder;
+        text-align: center;
+    }
+    .menu_item:hover{
+        margin: 0px;
+        height: 120px;
+        font-size: small;
+        font-weight: bolder;
+        text-align: center;
+    }
+
+    #sign-in-text{
+        margin: 0px;
+        text-align: center;
+        padding-left: 10px;
+        font-size: small;
+        font-weight: bolder;
+    }
+    
+    #sign-in-text:hover{
+        margin: 0px;
+        text-align: center;
+        padding-left: 10px;
+        font-size: small;
+        font-weight: bolder;
+    }
+    
+    #menu_2_id{
+        display: none;
+    }
+    
+    .menu_2_item{
+        margin: 0px;
+        width: 50px;
+        font-size: small;
+    }
+    .menu_2_item:hover{
+        margin: 0px;
+        width: 50px;
+        font-size: small;
+    }
+}
+
+/*
+#dotPng_style{
+    height: 30px;
+    width: 15px;
+}
+
+#dot_style{
+    font-size: xx-large;
+    font-weight: bold;
+    color: #FFFFFF;
+    width: 200px;
+    height: 10px;
+    margin-right: -20px;
+}
+
+*/
+
+/*#menu_id{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    text-align: center; 
+}*/
+
