@@ -5,6 +5,7 @@
 *.png
 *.jpeg
 *.docx
+*.rar
 node_modules/
 iecenv/
 DB_Classes/
